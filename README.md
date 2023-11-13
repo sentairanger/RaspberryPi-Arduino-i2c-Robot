@@ -1,5 +1,5 @@
 # RaspberryPi-Arduino-i2c-Robot
-This project connects a Raspberry Pi and Arduino Uno via i2c to control a robot.
+This project connects a Raspberry Pi and Arduino Uno via i2c to control a robot. I was inspired to do this project by this old Dronebot Workshop Tutorial [here](https://dronebotworkshop.com/i2c-arduino-raspberry-pi/)
 
 ## Getting Started
 First you'll need a Raspberry Pi. For the sake of power efficiency, I recommend not using a Pi 5 as that draws too much power. However any other Pi can be used. An Arduino Uno R3 is recommended but others can be used. Follow the Wiring Diagram shown below.
