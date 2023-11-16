@@ -7,4 +7,14 @@ To get started there's no need to install any libraries. First open the `i2c-rob
 
 Note: it is recommended to use a logic level converter to avoid short circuiting.
 
+Other code:
+
+* `i2c-camera-robot.py`: Uses pygame and picamera2 to record video while in motion.
+* `i2c-gui-robot.py`: Uses guizero to control a robot via GUI and i2c.
+* `i2c-camera-gui.py`: Uses guizero to control a robot via GUI and i2c and picamera2 for the camera module.
+
 ![i2c](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-robot_bb.png)
+
+![i2c-gui]](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-gui.png)
+
+![i2c-camera](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-camera.png)
