@@ -15,6 +15,6 @@ Other code:
 
 ![i2c](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-robot_bb.png)
 
-![i2c-gui]](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-gui.png)
+![i2c-gui](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-gui.png)
 
 ![i2c-camera](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-camera.png)
