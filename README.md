@@ -12,6 +12,7 @@ Other code:
 * `i2c-camera-robot.py`: Uses pygame and picamera2 to record video while in motion.
 * `i2c-gui-robot.py`: Uses guizero to control a robot via GUI and i2c.
 * `i2c-camera-gui.py`: Uses guizero to control a robot via GUI and i2c and picamera2 for the camera module.
+* `i2c-flask`: Directory for running the i2c Flask application. To run this go into this directory, and the run the code with `python3 app.py`. Then go to `localhost:5000` and the app should appear.
 
 ![i2c](https://github.com/sentairanger/RaspberryPi-Arduino-i2c-Robot/blob/main/i2c-robot_bb.png)
 
